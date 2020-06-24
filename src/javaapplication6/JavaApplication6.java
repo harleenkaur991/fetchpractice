@@ -18,6 +18,7 @@ public class JavaApplication6 {
         // TODO code application logic here
         System.out.println("do your things yourself");
         System.out.println("please help me god");
+        System.out.println("learn fetch");
     }
     
 }
